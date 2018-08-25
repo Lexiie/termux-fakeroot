@@ -1,6 +1,6 @@
 # termux-fakeroot
 
-![screenshot](https://github.com/Lexiie/termux-fakeroot/blob/master/screenshot/Screenshot_2018-08-25-01-11-06-601_com.termux.png =200x)
+<img src="https://github.com/Lexiie/termux-fakeroot/blob/master/screenshot/Screenshot_2018-08-25-01-11-06-601_com.termux.png" width="100" height="100" />
 
 Fakeroot script for termux
 Beta version
