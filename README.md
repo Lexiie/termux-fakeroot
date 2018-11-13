@@ -1,6 +1,6 @@
 # termux-fakeroot
 
-<img src="https://github.com/Lexiie/termux-fakeroot/blob/master/screenshot/Screenshot_2018-08-25-01-11-06-601_com.termux.png" width="400" height="520" />
+<img src="https://github.com/Lexiie/termux-fakeroot/blob/master/screenshot/Screenshot_2018-08-25-01-11-06-601_com.termux.png" width="480" height="600" />
 
 Fakeroot script for termux
 Beta version
@@ -22,4 +22,4 @@ Just type fakeroot on terminal
 
 Visit blog
 
-http://lexiie.web.id/tutorial/termux-fakeroot/
+http://lexiie.web.id/tools/termux-fakeroot
