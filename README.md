@@ -23,3 +23,5 @@ Just type fakeroot on terminal
 Visit blog
 
 http://lexiie.web.id/tools/termux-fakeroot
+
+Thank You
